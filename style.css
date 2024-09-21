@@ -1,0 +1,49 @@
+.image {
+    float: left; 
+    margin-right: 100px; 
+    width: 7%; 
+    height: auto; 
+    border-radius: 50%;
+    
+}
+.text {
+    text-align: center; 
+    width: 70%; 
+}
+.container {
+    display: flex; 
+    align-items: center; 
+    width: 100%; 
+}
+.text {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+}
+.TAT{
+    border: solid black;
+}
+.ADDC{
+    background-color: aquamarine;
+}
+.TAT2{
+    border:2px solid black;
+}
+form.form-example {
+    display: table;
+  }
+  
+  div.form-example {
+    display: table-row;
+  }
+  
+  label,
+  input {
+    display: table-cell;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    padding-right: 10px;
+  }
+  
